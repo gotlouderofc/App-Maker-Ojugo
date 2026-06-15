@@ -1,0 +1,6 @@
+{
+  "name": "Ojugo",
+  "description": "An Android app maker app to create high-performance webview and offline HTML applications in APK format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
